@@ -10,6 +10,14 @@ namespace Day4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!");
+            Console.WriteLine("Day04");
+
+        }
+
+        static int PlusTwoNum(int a, int b)
+        {
+            return a + b;
         }
     }
 }
