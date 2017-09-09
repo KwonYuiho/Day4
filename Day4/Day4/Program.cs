@@ -19,5 +19,11 @@ namespace Day4
         {
             return a + b;
         }
+
+
+        static float PlusTwoNum(float a, float b)
+        {
+            return a + b;
+        }
     }
 }
